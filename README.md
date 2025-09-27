@@ -1,5 +1,6 @@
 # Genshin-PC-Touchscreen
-
+教學影片YT(https://youtu.be/aPAPTIWnAK8)
+中文版README.md)https://github.com/Omoinemie/Genshin-PC-Touch(
 ![PixPin_2023-12-13_15-34-45](https://github.com/Omoinemie/Genshin-PC-Touch/assets/31991443/2120131d-27f8-423c-8c54-05bb35026f82)
 
 
