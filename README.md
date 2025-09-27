@@ -13,14 +13,6 @@ YuanShen.exe use_mobile_platform -is_cloud 1 -platform_type CLOUD_THIRD_PARTY_MO
 ```
 GenshinImpact.exe use_mobile_platform -is_cloud 1 -platform_type CLOUD_THIRD_PARTY_MOBILE
 ```
-## 方法二：
-this is not useful
-### 国服：
-```
-"F:\Genshin Impact\Genshin Impact Game\YuanShen.exe" use_mobile_platform -is_cloud 1 -platform_type CLOUD_THIRD_PARTY_MOBILE
-```
-### 国际服：
-```
-"F:\Genshin Impact\Genshin Impact Game\GenshinImpact.exe" use_mobile_platform -is_cloud 1 -platform_type CLOUD_THIRD_PARTY_MOBILE
-```
-注意，需要先启动launcher.exe，挂在后台，不然会报错。
+
+### watch tuto video
+https://youtu.be/aPAPTIWnAK8
